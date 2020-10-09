@@ -4,6 +4,8 @@ import { Link } from "react-router-dom";
 import "./style.scss";
 import axios from 'axios'
 
+
+
 function Register() {
   const [user, setUser] = useState({email:'',password:''});
 
