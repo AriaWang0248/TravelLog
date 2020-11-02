@@ -1,4 +1,65 @@
+# Travel Log Application
+
+This is a simple POC for Travel Log Application, it briefly describes the user Login, Register, and Posts modules of this application.
+
+## Description
+
+The Travel Log Application is meant to create a website that let users to share their travel experience, like sharing their hotel choice, car rental choices, and their reviews. So those potential travelers can browse through those posts and get useful information to make their future travel plans, and thus increase users’ reach to the hotels, and raise the popularity/ awareness of the hotels.
+
+The front-end of this application was constructed with react, css3, and material UI, and the backend was built with node.js, express.js, mongoose, and MongoDB database.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Features
+
+- Home page with react-router-dom
+- User Login and Register
+- Manage user profile
+- Travel Log gallery
+- Search posts based on key words
+- Write and post travel log
+- Edit, delete posted logs
+
+\*Some features are still in updating.
+
+## Technologies used
+
+React.js, JavaScript, Redux, HTML5, CSS3, Material UI, Node.js, Express.js, Mongoose, MongoDB
+
+## Folder Structure
+
+`
+TrabelLog
+├── package-lock.json
+├── .gitgnore
+├── README.md
+├── backend
+│ ├── node_modules/
+│ ├── models/
+│ ├── routes/
+│ ├── server.js
+│ ├── package.json
+│ └── package-lock.json
+│  
+├── frontend/  
+ node_modules/
+public/
+src/
+actions/
+components/
+reducers/
+App.css
+App.js
+App.test.js
+index.css
+index.js
+serviceWorker.js
+setupTests.js
+package.json
+package-lock.json
+yarn.lock
+
+`
 
 ## Available Scripts
 
