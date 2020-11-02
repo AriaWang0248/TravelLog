@@ -29,7 +29,7 @@ React.js, JavaScript, Redux, HTML5, CSS3, Material UI, Node.js, Express.js, Mong
 ## Folder Structure
 
 ```
-TrabelLog
+TravelLog
 │
 ├── backend
 │      ├── node_modules/
