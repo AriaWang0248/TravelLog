@@ -28,7 +28,7 @@ React.js, JavaScript, Redux, HTML5, CSS3, Material UI, Node.js, Express.js, Mong
 
 ## Folder Structure
 
-`
+```
 TrabelLog
 ├── package-lock.json
 ├── .gitgnore
@@ -40,8 +40,8 @@ TrabelLog
 │ ├── server.js
 │ ├── package.json
 │ └── package-lock.json
-│  
-├── frontend/  
+│
+├── frontend/
  node_modules/
 public/
 src/
@@ -59,7 +59,7 @@ package.json
 package-lock.json
 yarn.lock
 
-`
+```
 
 ## Available Scripts
 
