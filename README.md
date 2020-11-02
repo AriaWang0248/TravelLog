@@ -30,34 +30,36 @@ React.js, JavaScript, Redux, HTML5, CSS3, Material UI, Node.js, Express.js, Mong
 
 ```
 TrabelLog
-├── package-lock.json
-├── .gitgnore
-├── README.md
+│
 ├── backend
-│ ├── node_modules/
-│ ├── models/
-│ ├── routes/
-│ ├── server.js
-│ ├── package.json
-│ └── package-lock.json
+│      ├── node_modules/
+│      ├── models/
+│      ├── routes/
+│      ├── server.js
+│      ├── package.json
+│      └── package-lock.json
 │
 ├── frontend/
- node_modules/
-public/
-src/
-actions/
-components/
-reducers/
-App.css
-App.js
-App.test.js
-index.css
-index.js
-serviceWorker.js
-setupTests.js
-package.json
-package-lock.json
-yarn.lock
+│      ├── node_modules/
+│      ├── public/
+│      ├── src/
+│      │    ├── actions/
+│      │    ├── components/
+│      │    ├── reducers/
+│      │    ├── App.css
+│      │    ├── App.js
+│      │    ├── App.test.js
+│      │    ├── index.css
+│      │    ├── index.js
+│      │    ├── serviceWorker.js
+│      │    └── setupTests.js
+│      ├── package.json
+│      ├── package-lock.json
+│      └── yarn.lock
+│
+├── package-lock.json
+├── .gitgnore
+└── README.md
 
 ```
 
